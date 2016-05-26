@@ -179,7 +179,7 @@ dir {
     text-align: center;
 }
 
-.introduction.big-button {
+.introduction .big-button {
     background-color: #f15a29;
     border-color: #f15a29;
     border-radius: 4px;
@@ -244,7 +244,7 @@ dir {
     border: 1px solid #eaebec;
     border-radius: 2.25rem;
     display: inline-block;
-    height: 2.5rem;
+    height: 3.5rem;
     margin: 1.25rem 5px;
     padding: 1.25rem 0 0;
     text-align: center;
@@ -255,33 +255,12 @@ dir {
     color: #55acee;
 }
 
-.fa {
-    display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-}
-
-.fa-twitter:before {
-    content: "\f099";
-}
-
 .social .facebook {
     color: #4c66a4;
 }
 
-.fa-facebook-f:before,
-.fa-facebook:before {
-    content: "\f09a";
-}
-
 .social .instragram {
     color: #3f7296;
-}
-
-.fa-instragram:before {
-    content: "\f16d";
 }
 
 
